@@ -1,10 +1,10 @@
 html {
-    --tan: #f2ee9d;
-    --pea: #7a9d54;
-    --forest: #557a46;
+    --white: #ffffff;
+    --blue: #5b4bf0;
+    --forest: #7584db;
     --brick: #8c3333;
 
-    background-color: #f2ee9d;
+    background-color: #616161;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -20,20 +20,20 @@ h1 {
 
 .tab-wrap,
 #shirt-color-form {
-    background-color: #557a46;
+    background-color: #1740af;
     display: flex;
     padding: .5rem;
 }
 
 .tab {
     padding: 1rem;
-    background-color: #7a9d54;
+    background-color: #9490ca;
 }
 
 a,
 button,
 label {
-    color: #f2ee9d;
+    color: #e03376;
     text-decoration: none;
     font-weight: bold;
 }
@@ -45,8 +45,8 @@ input[type="radio"] {
 a:hover,
 button:hover,
 label:hover {
-    color: #8c3333;
-    text-decoration: underline;
+    color: #ff0000;
+    text-decoration: wavy underline;
     cursor: pointer;
 }
 
@@ -66,7 +66,7 @@ figcaption {
     bottom: .5rem;
     width: calc(100% - 1rem);
     color: white;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(54, 1, 1, 0.5);
     padding: 0.5rem;
 }
 
@@ -89,7 +89,7 @@ fieldset {
 legend {
     font-size: 1.2rem;
     font-weight: bold;
-    color: #f2ee9d;
+    color: #ff0000;
 }
 
 svg#shirt {
