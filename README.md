@@ -6,7 +6,7 @@
 
     //then a tab bar with at the most 3 tabs
         //One tab opens an "about"/ menu
-            //paragraph about Lauren and maybe a video as well
+            //paragraph about Lo and maybe a video as well
         //the second tab opens a view of options that can be viewed and what's coming as well as videos of Lo's process
             //various picture which can be clicked on and viewed in full view
             //videos on his process which can be clicked on
