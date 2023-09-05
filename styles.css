@@ -62,7 +62,7 @@ nav > ul > li {
 }
 
 .navbar a {
-  color: darkgrey;
+  color: black;
   text-decoration: none;
 }
 
@@ -117,26 +117,17 @@ h1 {
   border-radius: 0.5em;
 }
 
-.columns {
-  width: 75%;
-}
-
 .navbar a:hover {
-  color: black;
-}
+  color: lightgray;
+  border-bottom: 5rem, solid, lightgray;
+  border-color: lightgray;
+    }
 
 .menu {
   display: none;
 }
 
-.menu-line {
-  width: 20px;
-  height: 3px;
-  background-color: darkgrey;
-  margin-bottom: 4px;
-}
-
-@media all and (max-width: 480px) {
+@media only screen and (max-width: 480px) {
   .nav-list .container-icon {
     width: 100%;
   }
